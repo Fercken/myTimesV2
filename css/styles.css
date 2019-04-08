@@ -12,9 +12,12 @@ header {
     display: flex;
     border-bottom: solid 2px;
     justify-content: space-between;
+    background-color: #fff;
     font-family: Verdana, sans-serif;
     font-weight: bold;
-    height: 80px; 
+    height: 80px;
+    width: 100%;
+    position: fixed;
 }
 
 header h1 {
